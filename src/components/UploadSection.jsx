@@ -32,7 +32,7 @@ export default function UploadSection({ loading, setLoading, setAnalysisData }) 
     formData.append("resume", file)
     formData.append("targetRole", role)
     try {
-      const res = await axios.post("http://127.0.0.1:5000/api/analyze", formData, {
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/analyze`, formData, {
         headers: { "Content-Type": "multipart/form-data" }
       })
       setAnalysisData(res.data.data)
