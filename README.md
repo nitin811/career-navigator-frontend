@@ -41,17 +41,6 @@ Just upload your resume PDF, select your target role, and within seconds get:
 
 ---
 
-## 🖼️ Screenshots
-
-| Upload Page | Results Dashboard |
-|:-----------:|:-----------------:|
-| ![Upload](https://via.placeholder.com/480x280/080B14/A8A4FF?text=📄+Upload+Resume) | ![Dashboard](https://via.placeholder.com/480x280/080B14/00D4AA?text=📊+ATS+Score+%2B+Roadmap) |
-
-| Keyword Analysis | 4-Week Roadmap |
-|:----------------:|:--------------:|
-| ![Keywords](https://via.placeholder.com/480x280/080B14/FF8080?text=🔍+Keyword+Analysis) | ![Roadmap](https://via.placeholder.com/480x280/080B14/FFB347?text=🗺️+4+Week+Roadmap) |
-
----
 
 ## ✨ Features
 
