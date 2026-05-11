@@ -16,7 +16,6 @@
 
 [🌐 Live Demo](https://career-navigator-frontend-psi.vercel.app/) &nbsp;•&nbsp;
 [⚙️ Backend Repo](https://github.com/nitin811/career-navigator-backend) &nbsp;•&nbsp;
-[📸 Screenshots](#-screenshots) &nbsp;•&nbsp;
 [🚀 Quick Start](#-quick-start)
 
 <br/>
